@@ -2,6 +2,16 @@
 
 A collection of custom agent skills.
 
+## Installing Skills
+
+Use the `skills` CLI to add skills from this repository to your project:
+
+```bash
+npx skills add https://github.com/DSalischiker/skills --skill "skill-name"
+```
+
+Skills are installed into `.agents/skills/` by default, depending on your project setup.
+
 ## Structure
 
 ```
