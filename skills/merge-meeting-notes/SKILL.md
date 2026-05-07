@@ -2,7 +2,6 @@
 name: merge-meeting-notes
 description: Merges multiple AI-generated summaries or transcripts from the same meeting (e.g. Gemini, Granola, Otter) into one unified, deduplicated note saved to this repo.
 version: "1.0.0"
-author: DSalischiker
 category: productivity
 tags:
   - meeting
